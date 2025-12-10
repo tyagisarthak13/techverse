@@ -105,6 +105,9 @@ const Footer = () => {
                 <FaGlobe />
               </a>
             </div>
+            <p className="text-gray-300 opacity-80 hover:text-white transition duration-200 mt-5">
+              Sector-63, Noida
+            </p>
           </div>
         </div>
       </div>
